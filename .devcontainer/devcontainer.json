@@ -1,0 +1,8 @@
+{
+    "forwardPorts": [3000, 5173],
+    "portsAttributes": {
+      "3000": { "label": "Backend" },
+      "5173": { "label": "Frontend" }
+    }
+  }
+  
